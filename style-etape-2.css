@@ -1,0 +1,84 @@
+div {
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 5px blue;
+}
+
+#a {
+    background-image: url("image etape 2 (1).jpg");
+    border: solid;
+    border-radius: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#b {
+    background-image: url("image etape 2 (2).jpg");
+    border: dotted ;
+    border-radius: 15px;
+   background-size: 200px
+}
+
+#c {
+    background-image: url("image etape 2 (3).jpg");
+    border: dashed;
+    border-radius: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#d {
+    background-image: url("image etape 2 (4).jpg");
+    border: double;
+    border-radius: 15px;
+    background-size: cover;
+}
+
+#e {
+    background-image: url("image etape 2 (5).jpg");
+    border: groove;
+    border-radius: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#f {
+    background-image: url("image etape 2 (6).jpg");
+    border: inset;
+    border-radius: 15px;
+    background-size: cover;
+}
+
+#g {
+    background-image: url("image etape 2 (7).jpg");
+    border: outset;
+    border-radius: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#h {
+    background-image: url("image etape 2 (8).jpg");
+    border: dotted;
+    border-radius: 15px;width: 200px;
+    background-size: cover;
+
+}
+
+#i {
+    background-image: url("image etape 2 (9).jpg");
+    border: solid;
+    border-radius: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#j {
+    background-image: url("image etape 2 (10).jpg");
+    border: dashed;
+    border-radius: 15px;
+    background-size: cover;
+
+}
